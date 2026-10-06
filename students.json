@@ -1,7 +1,7 @@
 [
   {
     "id": "ZPM-2025-001",
-    "name": "Ayesha Khan",
+    "name": "Maeraj Rajper",
     "nic": "42101-1234567-8",
     "course": "Nursing Assistant",
     "duration": "6 Months",
@@ -9,23 +9,23 @@
     "startDate": "2025-01-10",
     "endDate": "2025-07-10",
     "status": "Completed",
-    "center": "Asma Medical Center",
+    "center": "Tahir Medical Center",
     "phone": "0300-1234567",
     "certificateNo": "ZPM-2025-001-C"
   },
   {
     "id": "ZPM-2025-002",
-    "name": "Bilal Ahmed",
-    "nic": "42101-2234567-9",
-    "course": "Lab Technician",
+    "name": "Aqib Gilal",
+    "nic": "42201-5678485-3",
+    "course": "Aid Nurse",
     "duration": "1 Year",
     "batch": "Batch 02",
     "startDate": "2025-02-15",
     "endDate": "2026-02-15",
-    "status": "In Progress",
-    "center": "Asma Medical Center",
+    "status": "Completed",
+    "center": "Tahir Medical Center",
     "phone": "0312-7654321",
-    "certificateNo": "Pending"
+    "certificateNo": "Given"
   },
   {
     "id": "ZPM-2025-003",
