@@ -1,7 +1,7 @@
 const studentData = [
   {
     id: 'ZPM-2025-001',
-    name: 'Ayesha Khan',
+    name: 'Maeraj Rajper',
     nic: '42101-1234567-8',
     course: 'Nursing Assistant',
     duration: '6 Months',
@@ -15,8 +15,8 @@ const studentData = [
   },
   {
     id: 'ZPM-2025-002',
-    name: 'Bilal Ahmed',
-    nic: '42101-2234567-9',
+    name: 'Aqib Gilal',
+    nic: '42201-5678485-3',
     course: 'Lab Technician',
     duration: '1 Year',
     batch: 'Batch 02',
