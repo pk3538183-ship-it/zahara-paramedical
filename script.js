@@ -29,16 +29,16 @@ const studentData = [
   },
   {
     id: 'ZPM-2025-003',
-    name: 'Sana Tariq',
-    nic: '42101-3344556-1',
-    course: 'Pharmacy Technician',
+    name: 'Nisar Ahmed',
+    nic: '45205-6972858-1',
+    course: 'Dispenser',
     duration: '1 Year',
     batch: 'Batch 03',
-    startDate: '2025-03-05',
-    endDate: '2026-03-05',
+    startDate: '2001-03-05',
+    endDate: '2002-03-05',
     status: 'Completed',
     center: 'Asma Medical Center',
-    phone: '0345-9988776',
+    phone: '0307-9202326',
     certificateNo: 'ZPM-2025-003-C'
   },
   {
