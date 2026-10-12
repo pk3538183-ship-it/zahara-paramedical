@@ -43,16 +43,16 @@ const studentData = [
   },
   {
     id: 'ZPM-2025-004',
-    name: 'Hassan Ali',
-    nic: '42101-4455667-2',
-    course: 'Dialysis Technician',
-    duration: '6 Months',
+    name: 'Raja Zulifqar Ali',
+    nic: '45208-5071878-3',
+    course: 'Dispenser',
+    duration: '1 Year',
     batch: 'Batch 04',
     startDate: '2025-04-01',
     endDate: '2025-10-01',
-    status: 'In Progress',
+    status: 'Complete',
     center: 'Asma Medical Center',
-    phone: '0333-6055649',
+    phone: '0302-9723013',
     certificateNo: 'Pending'
   },
   {
