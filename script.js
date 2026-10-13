@@ -43,7 +43,7 @@ const studentData = [
   },
   {
     id: 'ZPM-2025-004',
-    name: 'Raja Zulifqar Ali',
+    name: 'Raja Zulifqar',
     nic: '45208-5071878-3',
     course: 'Dispenser',
     duration: '1 Year',
@@ -53,7 +53,7 @@ const studentData = [
     status: 'Complete',
     center: 'Asma Medical Center',
     phone: '0302-9723013',
-    certificateNo: 'Pending'
+    certificateNo: 'Completed'
   },
   {
     id: 'ZPM-2025-005',
