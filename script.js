@@ -57,15 +57,15 @@ const studentData = [
   },
   {
     id: 'ZPM-2025-005',
-    name: 'Maria Shah',
+    name: 'Ubaid Boss',
     nic: '42101-5566778-3',
-    course: 'Medical Records & Billing',
-    duration: '6 Months',
+    course: 'MBBS Doctor',
+    duration: '5 Year',
     batch: 'Batch 01',
-    startDate: '2025-01-20',
+    startDate: '2020-01-20',
     endDate: '2025-07-20',
     status: 'Completed',
-    center: 'Asma Medical Center',
+    center: 'Civil Hospital Karachi',
     phone: '0321-3456789',
     certificateNo: 'ZPM-2025-005-C'
   }
